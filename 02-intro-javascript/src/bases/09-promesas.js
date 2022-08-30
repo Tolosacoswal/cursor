@@ -32,4 +32,4 @@ const getHeroeByIdAsync =(id)=>{
 }
 getHeroeByIdAsync(1)
 .then( console.log)
-.catch(err=> console.warn(err));
+.catch( console.war);
