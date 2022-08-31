@@ -9,4 +9,4 @@ peticion
        document.body.append(img);
 })   
 
-.catch (console.warn);...apiKey.charCodeAt
+.catch (console.warn);
