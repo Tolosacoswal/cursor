@@ -26,5 +26,13 @@
     "babel-jest": "^29.0.3",
     "jest": "^29.0.3",
     "vite": "^3.1.0"
-  }
+  },
+  "description": "jest course",
+  "main": "babel.config.js",
+  "keywords": [
+    "jest",
+    "testing"
+  ],
+  "author": "Edgar Alzate",
+  "license": "MIT"
 }
